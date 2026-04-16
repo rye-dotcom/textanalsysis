@@ -17,5 +17,6 @@ dependencies = [
     "streamlit>=1.56.0",
     "streamlit-aggrid>=1.2.1.post2",
     "textblob>=0.20.0",
+    "wordcloud>=1.9.6",
     
 ]
