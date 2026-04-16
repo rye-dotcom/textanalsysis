@@ -1,0 +1,21 @@
+[project]
+name = "expo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fpdf2>=2.8.7",
+    "matplotlib>=3.10.8",
+    "networkx>=3.6.1",
+    "nltk>=3.9.4",
+    "pip>=26.0.1",
+    "plotly>=6.7.0",
+    "seaborn>=0.13.2",
+    "spacy>=3.8.13",
+    "st-annotated-text>=4.0.2",
+    "streamlit>=1.56.0",
+    "streamlit-aggrid>=1.2.1.post2",
+    "textblob>=0.20.0",
+    "wordcloud>=1.9.6",
+]
