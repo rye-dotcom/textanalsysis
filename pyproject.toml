@@ -1,9 +1,9 @@
 [project]
 name = "expo"
 version = "0.1.0"
-description = "Add your description here"
+description = "Streamlit app to analyze text"
 readme = "README.md"
-requires-python = ">=3.11,<3.14"
+requires-python = ">=3.14"
 dependencies = [
     "fpdf2>=2.8.7",
     "matplotlib>=3.10.8",
@@ -18,5 +18,4 @@ dependencies = [
     "streamlit-aggrid>=1.2.1.post2",
     "textblob>=0.20.0",
     "wordcloud>=1.9.6",
-    
 ]
