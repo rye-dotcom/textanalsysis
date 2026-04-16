@@ -3,7 +3,7 @@ name = "expo"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-python = ">=3.10,<3.9"
+requires-python = ">=3.11,<3.14"
 dependencies = [
     "fpdf2>=2.8.7",
     "matplotlib>=3.10.8",
