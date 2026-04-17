@@ -63,11 +63,18 @@ source .venv/bin/activate
 You should now see (.venv) in your terminal prompt.
 
 📦 7. Install Dependencies
+```
 uv pip install -r pyproject.toml
+```
 🧠 8. Download Language Model (spaCy)
+```
 uv run python -m spacy download en_core_web_sm
+```
+
 ▶️ 9. Run the Application
+```
 uv run streamlit run text_analysis.py
+```
 
 After a few seconds, Streamlit will open the app in your browser automatically.
 
